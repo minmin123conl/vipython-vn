@@ -28,7 +28,7 @@ vipython-vn/
 
 ```bash
 # Clone repository
-git clone https://github.com/your-org/vipython-vn.git
+git clone https://github.com/minmin123conl/vipython-vn.git
 cd vipython-vn
 
 # Cài đặt dependencies
