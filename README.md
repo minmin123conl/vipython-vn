@@ -62,5 +62,5 @@ Chúng tôi hoan nghênh mọi đóng góp! Vui lòng đọc [bao_cao_giai_doan_
 
 ## Giấy phép
 
-Dự án này được phát hành dưới giấy phép MIT. Xem [LICENSE](LICENSE) để biết thêm chi tiết.
+Dự án này được phát hành dưới giấy phép Apache License 2.0. Xem [LICENSE](LICENSE) để biết thêm chi tiết.
 
