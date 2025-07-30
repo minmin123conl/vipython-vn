@@ -58,7 +58,7 @@ in_ra(f"Giai thua cua 5 la: {ket_qua}")
 
 ## Đóng góp
 
-Chúng tôi hoan nghênh mọi đóng góp! Vui lòng đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết thêm chi tiết.
+Chúng tôi hoan nghênh mọi đóng góp! Vui lòng đọc [bao_cao_giai_doan_3.md](bao_cao_giai_doan_3.md) và [bao_cao_trien_khai.md](bao_cao_trien_khai.md) để biết chi tiết về các phiên bản và nội dung những thử nghiệm và thống kê.
 
 ## Giấy phép
 
