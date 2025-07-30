@@ -37,7 +37,7 @@
 ### 5. Website cộng đồng ✅
 - ✅ **Frontend:** React website với giao diện hiện đại
 - ✅ **Nội dung:** Trang chủ, tài liệu, ví dụ, cộng đồng
-- ✅ **Deployment:** Đã deploy lên production tại https://ghchjtwl.manus.space
+- ✅ **Deployment:** Đã deploy lên production tại [Chưa hỗ trợ :)) ]
 - ✅ **Responsive:** Tương thích mobile và desktop
 
 ## Tính năng đã triển khai
