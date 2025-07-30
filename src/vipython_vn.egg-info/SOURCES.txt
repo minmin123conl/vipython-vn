@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/vipython/__init__.py
+src/vipython/__main__.py
+src/vipython_vn.egg-info/PKG-INFO
+src/vipython_vn.egg-info/SOURCES.txt
+src/vipython_vn.egg-info/dependency_links.txt
+src/vipython_vn.egg-info/entry_points.txt
+src/vipython_vn.egg-info/not-zip-safe
+src/vipython_vn.egg-info/requires.txt
+src/vipython_vn.egg-info/top_level.txt

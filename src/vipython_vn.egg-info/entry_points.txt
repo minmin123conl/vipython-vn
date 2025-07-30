@@ -1,0 +1,2 @@
+[console_scripts]
+vipython = vipython.__main__:main
